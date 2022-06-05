@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13640171321",
+    "project_id": "deepvisiontechassignment1",
+    "storage_bucket": "deepvisiontechassignment1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13640171321:android:4d8b03e2648ed34496f2e8",
+        "android_client_info": {
+          "package_name": "com.example.deepvisiontechassignment1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13640171321-ql75rafidlf0h91btq27pqn23l4u8bs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deepvisiontechassignment1",
+            "certificate_hash": "d03d5a3de7672a4d899f058722df9ebd3e66a760"
+          }
+        },
+        {
+          "client_id": "13640171321-h7rbro4red7i5g2rse1mpjkgo9q1hccd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDHujl6WoUoaC9J5rorSRWheIm_dn3nhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13640171321-h7rbro4red7i5g2rse1mpjkgo9q1hccd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
